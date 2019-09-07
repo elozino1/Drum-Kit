@@ -1,0 +1,24 @@
+
+.key {
+	display: block;
+	text-align: center;
+}
+
+.key-container {
+	display: inline-block;
+	border: 2px solid black;
+	border-radius: 5px;
+	padding: 15px;
+	margin: 0 20px;
+	transition: all .04s;
+}
+
+.container {
+	text-align: center;
+	margin: 40vh 0;
+}
+
+.hit {
+	border: 3px solid #00cc00;
+	transform: scale(1.2);
+}
